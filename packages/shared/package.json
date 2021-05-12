@@ -1,0 +1,8 @@
+{
+    "name": "@cars24/common",
+    "version": "0.0.0",
+    "description": "Common modules",
+    "author": "",
+    "main": "src/index.ts",
+    "license": "ISC"
+}

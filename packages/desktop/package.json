@@ -1,0 +1,19 @@
+{
+    "name": "@cars24/desktop",
+    "version": "0.0.0",
+    "description": "Desktop module",
+    "scripts": {
+        "dev": "next dev -p 3010",
+        "build": "next build",
+        "start": "next start -p 3010"
+    },
+    "config": {
+        "port": 3010,
+        "path": "/"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@cars24/common": "0.0.0"
+    }
+}

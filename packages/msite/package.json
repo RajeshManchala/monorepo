@@ -1,0 +1,19 @@
+{
+    "name": "@cars24/msite",
+    "version": "0.0.0",
+    "description": "Msite module",
+    "scripts": {
+        "dev": "next dev -p 3020",
+        "build": "next build",
+        "start": "next start -p 3020"
+    },
+    "config": {
+        "port": 3020,
+        "path": "/"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@cars24/common": "0.0.0"
+    }
+}
