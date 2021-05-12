@@ -9,6 +9,6 @@ Use following commands to start the application
 
 npm install
 
-npm run start --workspace=@cars24/desktop
+npm run dev --workspace=@cars24/desktop
 
-npm run start --workspace=@cars24/msite
+npm run dev --workspace=@cars24/msite
